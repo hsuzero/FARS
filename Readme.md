@@ -9,7 +9,7 @@ To install this package to run on your system, please first install and load the
 
 ## Create an Example Package in R 
 Package: fars
-GitHub:  https://github.com/hsuzero/FARS
+GitHub:  https://github.com/hsuzero/fars
 
 ### Vignette
 
