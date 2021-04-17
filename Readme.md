@@ -18,4 +18,5 @@ To get started, read the introduction vignette: `vignette('introduction', packag
 ### Travis Badge
 <!-- badges: start -->
   [![Travis build status](https://travis-ci.com/hsuzero/FARS.svg?branch=main)](https://travis-ci.com/hsuzero/FARS)
+[![R-CMD-check](https://github.com/hsuzero/FARS/workflows/R-CMD-check/badge.svg)](https://github.com/hsuzero/FARS/actions)
 <!-- badges: end -->
