@@ -16,6 +16,4 @@ GitHub:  https://github.com/hsuzero/FARS
 To get started, read the introduction vignette: `vignette('introduction', package = 'fars')`.
 
 ### Travis Badge
-<!-- badges: start -->
-  [![Travis build status](https://travis-ci.com/hsuzero/fars.svg?branch=main)](https://travis-ci.com/hsuzero/fars)
-<!-- badges: end -->
+[![Build Status](https://travis-ci.org/hsuzero/fars.svg?branch=main)](https://travis-ci.org/hsuzero/fars)
